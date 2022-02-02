@@ -1,0 +1,382 @@
+[
+  {
+    "jackPotGame": {
+      "jackpotName": "HAB 12 Zodiacs",
+      "money": {
+        "amount": "20754389.60",
+        "currency": "COL"
+      },
+      "game": [
+        {
+          "GameId": "2e6c2a39-7022-ea11-9457-00155d150819",
+          "GameName": "HAB 12 Zodiacs"
+        },
+        {
+          "GameId": "726c2a39-7022-ea11-9457-00155d150819",
+          "GameName": "HAB 12 Zodiacs"
+        }
+      ],
+      "jackpotId": ""
+    }
+  },
+  {
+    "jackPotGame": {
+      "jackpotName": "HAB 5 Lucky Lions",
+      "money": {
+        "amount": "243469.10",
+        "currency": "COL"
+      },
+      "game": [
+        {
+          "GameId": "8c65266a-ffc4-ea11-93f2-00155db40e09",
+          "GameName": "HAB 5 Lucky Lions"
+        },
+        {
+          "GameId": "ae65266a-ffc4-ea11-93f2-00155db40e09",
+          "GameName": "HAB 5 Lucky Lions"
+        }
+      ],
+      "jackpotId": ""
+    }
+  },
+  {
+    "jackPotGame": {
+      "jackpotName": "HAB 5 MARIACHIS",
+      "money": {
+        "amount": "20754389.60",
+        "currency": "COL"
+      },
+      "game": [
+        {
+          "GameId": "474f824a-e111-ea11-9455-00155d922a08",
+          "GameName": "HAB 5 MARIACHIS"
+        },
+        {
+          "GameId": "534f824a-e111-ea11-9455-00155d922a08",
+          "GameName": "HAB 5 MARIACHIS"
+        }
+      ],
+      "jackpotId": ""
+    }
+  },
+  {
+    "jackPotGame": {
+      "jackpotName": "HAB Bird Of Thunder",
+      "money": {
+        "amount": "20754389.60",
+        "currency": "COL"
+      },
+      "game": [
+        {
+          "GameId": "326c2a39-7022-ea11-9457-00155d150819",
+          "GameName": "HAB Bird Of Thunder"
+        },
+        {
+          "GameId": "766c2a39-7022-ea11-9457-00155d150819",
+          "GameName": "HAB Bird Of Thunder"
+        }
+      ],
+      "jackpotId": ""
+    }
+  },
+  {
+    "jackPotGame": {
+      "jackpotName": "HAB FOUR DIVINE BEASTS",
+      "money": {
+        "amount": "20754389.60",
+        "currency": "COL"
+      },
+      "game": [
+        {
+          "GameId": "414f824a-e111-ea11-9455-00155d922a08",
+          "GameName": "HAB FOUR DIVINE BEASTS"
+        },
+        {
+          "GameId": "4d4f824a-e111-ea11-9455-00155d922a08",
+          "GameName": "HAB FOUR DIVINE BEASTS"
+        }
+      ],
+      "jackpotId": ""
+    }
+  },
+  {
+    "jackPotGame": {
+      "jackpotName": "HAB Hot Hot Fruit",
+      "money": {
+        "amount": "243469.10",
+        "currency": "COL"
+      },
+      "game": [
+        {
+          "GameId": "8e65266a-ffc4-ea11-93f2-00155db40e09",
+          "GameName": "HAB Hot Hot Fruit"
+        },
+        {
+          "GameId": "b065266a-ffc4-ea11-93f2-00155db40e09",
+          "GameName": "HAB Hot Hot Fruit"
+        }
+      ],
+      "jackpotId": ""
+    }
+  },
+  {
+    "jackPotGame": {
+      "jackpotName": "HAB Magic Oak",
+      "money": {
+        "amount": "243469.10",
+        "currency": "COL"
+      },
+      "game": [
+        {
+          "GameId": "8265266a-ffc4-ea11-93f2-00155db40e09",
+          "GameName": "HAB Magic Oak"
+        },
+        {
+          "GameId": "a465266a-ffc4-ea11-93f2-00155db40e09",
+          "GameName": "HAB Magic Oak"
+        }
+      ],
+      "jackpotId": ""
+    }
+  },
+  {
+    "jackPotGame": {
+      "jackpotName": "HAB Panda Panda",
+      "money": {
+        "amount": "20754389.60",
+        "currency": "COL"
+      },
+      "game": [
+        {
+          "GameId": "546c2a39-7022-ea11-9457-00155d150819",
+          "GameName": "HAB Panda Panda"
+        },
+        {
+          "GameId": "986c2a39-7022-ea11-9457-00155d150819",
+          "GameName": "HAB Panda Panda"
+        }
+      ],
+      "jackpotId": ""
+    }
+  },
+  {
+    "jackPotGame": {
+      "jackpotName": "HAB Ruffled Up",
+      "money": {
+        "amount": "20754389.60",
+        "currency": "COL"
+      },
+      "game": [
+        {
+          "GameId": "586c2a39-7022-ea11-9457-00155d150819",
+          "GameName": "HAB Ruffled Up"
+        },
+        {
+          "GameId": "9c6c2a39-7022-ea11-9457-00155d150819",
+          "GameName": "HAB Ruffled Up"
+        }
+      ],
+      "jackpotId": ""
+    }
+  },
+  {
+    "jackPotGame": {
+      "jackpotName": "HAB Wizards Want War",
+      "money": {
+        "amount": "243469.10",
+        "currency": "COL"
+      },
+      "game": [
+        {
+          "GameId": "8a65266a-ffc4-ea11-93f2-00155db40e09",
+          "GameName": "HAB Wizards Want War"
+        },
+        {
+          "GameId": "ac65266a-ffc4-ea11-93f2-00155db40e09",
+          "GameName": "HAB Wizards Want War"
+        }
+      ],
+      "jackpotId": ""
+    }
+  },
+  {
+    "jackPotGame": {
+      "jackpotName": "PT Age of the Gods Apollo Power",
+      "money": {
+        "amount": "39646050.45",
+        "currency": "COL"
+      },
+      "game": [
+        {
+          "GameId": "978528f4-e95b-eb11-93f2-00155db40e09",
+          "GameName": "PT Age of the Gods Apollo Power"
+        },
+        {
+          "GameId": "eb8528f4-e95b-eb11-93f2-00155db40e09",
+          "GameName": "PT Age of the Gods Apollo Power"
+        }
+      ],
+      "jackpotId": ""
+    }
+  },
+  {
+    "jackPotGame": {
+      "jackpotName": "PT Age of the Gods Epic Troy",
+      "money": {
+        "amount": "39646050.45",
+        "currency": "COL"
+      },
+      "game": [
+        {
+          "GameId": "938528f4-e95b-eb11-93f2-00155db40e09",
+          "GameName": "PT Age of the Gods Epic Troy"
+        },
+        {
+          "GameId": "e78528f4-e95b-eb11-93f2-00155db40e09",
+          "GameName": "PT Age of the Gods Epic Troy"
+        }
+      ],
+      "jackpotId": ""
+    }
+  },
+  {
+    "jackPotGame": {
+      "jackpotName": "PT Age of the Gods Ruler of the Seas",
+      "money": {
+        "amount": "39646050.45",
+        "currency": "COL"
+      },
+      "game": [
+        {
+          "GameId": "958528f4-e95b-eb11-93f2-00155db40e09",
+          "GameName": "PT Age of the Gods Ruler of the Seas"
+        },
+        {
+          "GameId": "e98528f4-e95b-eb11-93f2-00155db40e09",
+          "GameName": "PT Age of the Gods Ruler of the Seas"
+        }
+      ],
+      "jackpotId": ""
+    }
+  },
+  {
+    "jackPotGame": {
+      "jackpotName": "PT Kingdoms Rise Captains Treasure",
+      "money": {
+        "amount": "21389878.48",
+        "currency": "COL"
+      },
+      "game": [
+        {
+          "GameId": "b38528f4-e95b-eb11-93f2-00155db40e09",
+          "GameName": "PT Kingdoms Rise Captains Treasure"
+        },
+        {
+          "GameId": "078628f4-e95b-eb11-93f2-00155db40e09",
+          "GameName": "PT Kingdoms Rise Captains Treasure"
+        }
+      ],
+      "jackpotId": ""
+    }
+  },
+  {
+    "jackPotGame": {
+      "jackpotName": "PT Kingdoms Rise Forbidden Forest",
+      "money": {
+        "amount": "21389878.48",
+        "currency": "COL"
+      },
+      "game": [
+        {
+          "GameId": "b58528f4-e95b-eb11-93f2-00155db40e09",
+          "GameName": "PT Kingdoms Rise Forbidden Forest"
+        },
+        {
+          "GameId": "098628f4-e95b-eb11-93f2-00155db40e09",
+          "GameName": "PT Kingdoms Rise Forbidden Forest"
+        }
+      ],
+      "jackpotId": ""
+    }
+  },
+  {
+    "jackPotGame": {
+      "jackpotName": "PT Kingdoms Rise Guardians of the Abyss",
+      "money": {
+        "amount": "21389878.48",
+        "currency": "COL"
+      },
+      "game": [
+        {
+          "GameId": "b78528f4-e95b-eb11-93f2-00155db40e09",
+          "GameName": "PT Kingdoms Rise Guardians of the Abyss"
+        },
+        {
+          "GameId": "0b8628f4-e95b-eb11-93f2-00155db40e09",
+          "GameName": "PT Kingdoms Rise Guardians of the Abyss"
+        }
+      ],
+      "jackpotId": ""
+    }
+  },
+  {
+    "jackPotGame": {
+      "jackpotName": "PT Kingdoms Rise Reign of Ice",
+      "money": {
+        "amount": "21389878.48",
+        "currency": "COL"
+      },
+      "game": [
+        {
+          "GameId": "b98528f4-e95b-eb11-93f2-00155db40e09",
+          "GameName": "PT Kingdoms Rise Reign of Ice"
+        },
+        {
+          "GameId": "0d8628f4-e95b-eb11-93f2-00155db40e09",
+          "GameName": "PT Kingdoms Rise Reign of Ice"
+        }
+      ],
+      "jackpotId": ""
+    }
+  },
+  {
+    "jackPotGame": {
+      "jackpotName": "PT Kingdoms Rise Sands of Fury",
+      "money": {
+        "amount": "21389878.48",
+        "currency": "COL"
+      },
+      "game": [
+        {
+          "GameId": "bb8528f4-e95b-eb11-93f2-00155db40e09",
+          "GameName": "PT Kingdoms Rise Sands of Fury"
+        },
+        {
+          "GameId": "0f8628f4-e95b-eb11-93f2-00155db40e09",
+          "GameName": "PT Kingdoms Rise Sands of Fury"
+        }
+      ],
+      "jackpotId": ""
+    }
+  },
+  {
+    "jackPotGame": {
+      "jackpotName": "PT Kingdoms Rise Scorching Clouds",
+      "money": {
+        "amount": "21389878.48",
+        "currency": "COL"
+      },
+      "game": [
+        {
+          "GameId": "bd8528f4-e95b-eb11-93f2-00155db40e09",
+          "GameName": "PT Kingdoms Rise Scorching Clouds"
+        },
+        {
+          "GameId": "118628f4-e95b-eb11-93f2-00155db40e09",
+          "GameName": "PT Kingdoms Rise Scorching Clouds"
+        }
+      ],
+      "jackpotId": ""
+    }
+  }
+]
