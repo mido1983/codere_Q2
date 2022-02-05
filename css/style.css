@@ -1,0 +1,232 @@
+/*fonts*/
+@font-face {
+    font-family: "High School USA Sans";
+    src: url("../fonts/High_School_USA_Sans.eot?") format("eot"), url("../fonts/High_School_USA_Sans.woff") format("woff"), url("../fonts/High_School_USA_Sans.ttf") format("truetype"), url("../fonts/High_School_USA_Sans.svg#HighSchoolUSASans") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.0/font/bootstrap-icons.css");
+.body {
+    font-family: "High School USA Sans";
+}
+
+.bg-green {
+    background-color: #79C000;
+
+}
+
+.hr-green {
+    background-color: #79C000;
+    margin: 1rem 0;
+    color: inherit;
+    /*background-color: currentColor;*/
+    border: 10px;
+    opacity: 0.75;
+    border: 1.5px solid #79C000;
+}
+
+.logo-desc {
+    height: 2rem;
+}
+
+.md-btn {
+    width: 108px;
+    height: 36px;
+    border-radius: 50px;
+    border: none;
+    opacity: 1;
+    color: #344049;
+}
+
+.md-btn-register {
+    background: #0056FE 0% 0% no-repeat padding-box;
+    color: #ffffff;
+}
+
+.md-btn-login {
+    background-color: transparent;
+    border: 1px solid black;
+}
+
+.md-btn-login:hover {
+    background: #0056FE 0% 0% no-repeat padding-box;
+    color: #ffffff;
+}
+
+/*flor 1*/
+.flor1-title {
+    font-family: "High School USA Sans";
+    font-size: 3vw;
+    text-align: center;
+    color: #ffffff;
+}
+
+.cooper {
+    background-color: #333F48;
+
+}
+
+.flor-1-col-3 {
+    justify-content: space-between;
+    display: inline-flex;
+    flex-direction: column;
+    padding: 5px 0 5px 0;
+}
+
+/*.flor-2{*/
+/*    background-color: #333F48;*/
+
+/*}*/
+.row-flor1 {
+    margin-top: 2rem;
+    display: inline-flex;
+    width: 100%;
+}
+
+.md-col-flor1-lr {
+    width: 23%;
+    padding-top: 1.2%;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.flor1-pass {
+    /* height: 4px; */
+    background-color: green;
+    /* margin-bottom: 2px; */
+    padding: 2px 0 2px 0;
+    margin: 3px;
+}
+
+.md-r-tt {
+    font-family: "High School EUR Sans Condensed";
+    font-size: 72px;
+    text-align: center;
+    /*font: normal normal normal 72px/91px High School EUR Sans;*/
+    letter-spacing: 0px;
+    text-transform: uppercase;
+}
+
+.steps {
+    color: #ffffff;
+}
+
+.ftr {
+    top: 0.5rem;
+    position: relative;
+}
+
+.pos-chevron {
+    top: 1rem;
+    position: relative;
+    padding: 0;
+    margin: 0;
+}
+
+.n-step {
+    width: 4rem;
+    height: 4rem;
+    background-color: #0056FE;
+    border: 1px solid #0056FE;
+    /* margin-right: 36.1rem; */
+    border-radius: 50%;
+    position: absolute;
+}
+
+.n-step > span {
+    font: normal normal bold 55px/73px Roboto;
+    position: inherit;
+    left: 1rem;
+    top: -5px;
+}
+
+.md-chevron {
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+/*flor 3*/
+.btn-go {
+    justify-content: center;
+    display: flex;
+    margin: 2rem 0 2rem 0;
+}
+
+.btn-go-text {
+    text-decoration: none;
+    background-color: #0056FE;
+    color: #ffffff;
+    padding: 0.5rem 3rem 0.5rem 3rem;
+    border-radius: 3.5rem;
+    font: normal normal normal 45px/59px Roboto;
+    text-align: center;
+}
+
+.sparkle {
+    max-width: 10em;
+    margin: auto auto;
+}
+
+.sparkle:hover {
+    cursor: pointer;
+    color: #ffffff;
+}
+
+.u-hover--sparkle {
+    box-sizing: border-box;
+    position: relative;
+}
+
+.u-hover--sparkle::before, .u-hover--sparkle::after {
+    content: "";
+    box-sizing: border-box;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    transform-origin: center;
+}
+
+.u-hover--sparkle::before {
+    border-top: 0.2em solid #9F2042;
+    border-bottom: 0.2em solid #9F2042;
+    transform: scale3d(0, 1, 1);
+    border-radius: 3.5rem;
+}
+
+.u-hover--sparkle::after {
+    border-left: 0.3em solid #9F2042;
+    border-right: 0.3em solid #9F2042;
+    transform: scale3d(1, 0, 1);
+    border-radius: 4rem;
+}
+
+.u-hover--sparkle:hover::before, .u-hover--sparkle:hover::after {
+    transform: scale3d(1, 1, 1);
+    transition: transform 900ms;
+    border-radius: 3.5rem;
+}
+
+
+.jkPotWrap{
+    position:relative;
+}
+.jackPot{
+    position: absolute;
+    bottom:2%;
+    width:70%;
+    left:15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#333;
+    font-size: 15px;
+    background-color: yellow;
+    height:26px;
+    border-radius:10px;
+    font-weight: bold;
+}
+
