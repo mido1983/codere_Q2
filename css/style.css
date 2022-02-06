@@ -10,12 +10,23 @@
 .body {
     font-family: "High School USA Sans";
 }
+.img-thumbnail{
+    border: unset !important;
+}
+.md-height11{
+    height: 11vw;
+}
+.md-pb3{
+    padding-bottom: 3vw;
+}
 
 .bg-green {
     background-color: #79C000;
 
 }
-
+.bg-gray{
+    background-color: #F9F9F9;
+}
 .hr-green {
     background-color: #79C000;
     margin: 1rem 0;
@@ -229,4 +240,68 @@
     border-radius:10px;
     font-weight: bold;
 }
+.btn-tr2{
+    display: none;
+}
+/*footer*/
+.md-img-thumbnail{
+    max-width: 50px;
+}
+#carouselExampleSlidesOnly{
+    display: none;
+}
 
+@media (max-width: 767.98px) {
+    .md-btn-login{
+        display: none;
+    }
+    .btn-go-text {
+        padding: 1vw 9vw 1vw 9vw;
+        border-radius: 3.5rem;
+        font: normal normal normal 25px/40px Roboto;
+        text-align: center;
+    }
+    .steps{
+        display: none;
+    }
+    .btn-tr{
+        display: none;
+    }
+    .btn-tr2{
+        display: block;
+    }
+    #carouselExampleSlidesOnly{
+        padding-bottom: 10vw;
+        display: block;
+    }
+    .n-step {
+        width: 10vw;
+        height: 10vw;
+        background-color: #0056FE;
+        border: 1px solid #0056FE;
+        border-radius: 50%;
+        position: absolute;
+        top: 6vw;
+    }
+    .n-step > span {
+        font: normal normal bold 20px/40px Roboto;
+        position: inherit;
+        left: 3.5vw;
+        top: -4px;
+    }
+    .st1{
+        color:  #ffffff;
+        padding: 0;
+        line-height: normal;
+    }
+    .st1 > span{
+
+    }
+    .md-chevron {
+        color: #ffffff;
+    }
+
+
+
+
+}
